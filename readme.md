@@ -1,4 +1,4 @@
-# data-uri-to-file [![Build Status](https://travis-ci.org/ragingwind/data-uri-to-file.svg?branch=master)](https://travis-ci.org/ragingwind/data-uri-to-file)
+# data-uri-to-file
 
 > data-uri encoded in base64 to file or stream
 
