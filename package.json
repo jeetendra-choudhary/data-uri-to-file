@@ -1,0 +1,19 @@
+{
+  "name": "data-uri-to-file",
+  "version": "1.0.0",
+  "description": "Data Uri To File with Path",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jeetendra-choudhary/data-uri-to-file.git"
+  },
+  "author": "Jeetendra Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeetendra-choudhary/data-uri-to-file/issues"
+  },
+  "homepage": "https://github.com/jeetendra-choudhary/data-uri-to-file#readme"
+}
