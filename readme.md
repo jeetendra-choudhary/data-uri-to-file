@@ -43,4 +43,4 @@ Stream supportable interface.
 
 ## License
 
-MIT © [ragingwind](http://ragingwind.me)
+MIT © [Jeetendra](http://jeetendra.xyz)
