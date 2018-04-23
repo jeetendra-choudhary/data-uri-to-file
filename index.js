@@ -5,7 +5,7 @@ const mime = require('mime');
 const through2 = require('through2');
 const fs = require('fs');
 
-toFile = (input, path) => {
+let toFile = (input, path) => {
 	return new Promise((resolve, reject) => {
 		if (typeof input !== 'string') {
 			return reject(new TypeError('Input should be string as base64'));
