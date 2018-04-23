@@ -16,11 +16,9 @@
     "url": "https://github.com/jeetendra-choudhary/data-uri-to-file/issues"
   },
   "homepage": "https://github.com/jeetendra-choudhary/data-uri-to-file#readme",
-  "devDependencies": {
-    "data-uri-regex": "^0.1.4"
-  },
   "dependencies": {
     "mime": "^2.3.1",
-    "through2": "^2.0.3"
+    "through2": "^2.0.3",
+    "data-uri-regex": "^0.1.4"
   }
 }
